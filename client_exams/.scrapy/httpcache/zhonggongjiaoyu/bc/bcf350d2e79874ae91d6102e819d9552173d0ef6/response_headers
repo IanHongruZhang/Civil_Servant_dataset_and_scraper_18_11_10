@@ -1,0 +1,13 @@
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Date: Thu, 08 Nov 2018 07:35:10 GMT
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Via: cache45.l2et15-2[1066,200-0,M], cache44.l2et15-2[1129,0], kunlun4.cn198[1183,200-0,M], kunlun6.cn198[1198,0]
+Ali-Swift-Global-Savetime: 1541662512
+X-Cache: MISS TCP_REFRESH_MISS dirn:9:70641279
+X-Swift-Savetime: Thu, 08 Nov 2018 07:35:12 GMT
+X-Swift-Cachetime: 1800
+Timing-Allow-Origin: *
+Eagleid: 7af6142715416625115284006e

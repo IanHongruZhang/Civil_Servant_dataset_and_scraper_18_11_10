@@ -1,0 +1,17 @@
+Server: Tengine
+Content-Type: text/plain
+Date: Thu, 08 Nov 2018 06:35:01 GMT
+Cache-Control: max-age=1801
+Expires: Thu, 08 Nov 2018 07:05:02 GMT
+Last-Modified: Sun, 01 Oct 2017 09:17:13 GMT
+Etag: "59d0b299-d"
+Vary: Accept-Encoding
+Via: cache45.l2et15-2[0,304-0,H], cache8.l2et15-2[12,0], kunlun6.cn206[54,200-0,H], kunlun4.cn206[74,0]
+Content-Encoding: gzip
+Age: 847
+Ali-Swift-Global-Savetime: 1541091571
+X-Cache: HIT TCP_REFRESH_HIT dirn:1:282468669
+X-Swift-Savetime: Thu, 08 Nov 2018 06:49:08 GMT
+X-Swift-Cachetime: 1800
+Timing-Allow-Origin: *
+Eagleid: 9903e79815416597484623779e
